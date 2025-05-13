@@ -50,9 +50,9 @@ O algoritmo segue os seguintes passos principais:
 - Capacidade da mochila: 10000
 
 **Saída:**
-- Melhor valor encontrado: 0
-- Peso total: 0
-- Tempo de execução: 153.04 segundos
+- Melhor valor encontrado: 264640
+- Peso total: 52907
+- Tempo de execução: 343.57 segundos
 
 ## Dificuldades e Aprendizados
 
